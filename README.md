@@ -4,4 +4,4 @@
 
 
 ## third edition
-:stars:
+:star:
